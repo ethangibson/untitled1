@@ -27,7 +27,7 @@ public class go {
 
     public static void Output2Term(String inp){
 
-        System.out.println("String Polymorphism: " + inp);
+        System.out.println("String Polymorphism123123123123: " + inp);
 
     }
 
